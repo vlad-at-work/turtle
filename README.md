@@ -4,7 +4,6 @@ turtle web server
 turtle is a libevent based http server which supports php files via php-fpm.
 
 > "Look at that turtle go bro!"
-> http://www.youtube.com/watch?v=AooRzI2o_T8
 
 I got bored on a Saturday and wanted to see if I could do this or not.
 
